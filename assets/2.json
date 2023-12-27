@@ -1,0 +1,26 @@
+{
+  "name": "Peter",
+  "symbol": "TEST",
+  "image": "2.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/jpg"
+      }
+    ],
+    "creators": [
+      {
+        "address": "AZh3i2QBZkpe8HdgoW3uWabwWAZqeVgfpkEVD9ja7GN",
+        "share": 100
+      }
+    ]
+  },
+  "description": "TEST",
+  "attributes": [
+    {"trait_type": "Layer-1", "value": "0"},
+    {"trait_type": "Layer-2", "value": "0"}, 
+    {"trait_type": "Layer-3", "value": "0"},
+    {"trait_type": "Layer-4", "value": "1"}
+]
+}
